@@ -10,3 +10,9 @@ Mood Frequency: Pie chart summarizing different mood states (Happy, Stressed, Ti
 Mood vs. Workout Type: Stacked bar chart comparing how workouts influence mood.
 Mood Over Time: Dot chart tracking emotional trends across days.
 
+Objective
+The goal of this dashboard is to:
+Promote self-awareness in daily health and emotional patterns
+Understand how workouts impact mood and weight
+Encourage balanced hydration and exercise routines
+
